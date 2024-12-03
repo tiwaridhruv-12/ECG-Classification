@@ -1,20 +1,9 @@
 # ECG-Classification
 The classification of electrocardiogram (ECG) signals is an essential component of the diagnosis and monitoring of cardiac arrhythmias. This study employs a comprehensive data-driven approach to classify ECG signals using the MIT-BIH Arrhythmia Database. Data preprocessing, exploratory research, and machine learning and deep learning method application comprise the workflow. Following an analysis of the dataset for class imbalances, class weight is applied to help to resolve these problems. Model evaluation guarantees strong performance by means of metrics like F1 score and confusion matrix. The study emphasizes the possibility of using contemporary computational methods to raise the diagnostic accuracy in ECG analysis, thereby advancing tailored healthcare.
 
-ACRONYMS
-
-•	ECG: Electrocardiogram
-•	MIT-BIH: Massachusetts Institute of Technology-Beth Israel Hospital
-•	F1 Score: Harmonic mean of Precision and Recall
-•	N: Non-ecotic beats (normal beat)
-•	S: Supraventricular ectopic beats 
-•	V: Ventricular ectopic beats
-•	F: Fusion Beats
-•	Q: Unknown Beats
 
  METHODOLOGY
-
-
+ 
 3.1 Data Collection
 •	Dataset: The MIT-BIH Arrhythmia Database was used, which contains annotated ECG recordings for various cardiac conditions.
 •	Training and Testing Splits:
