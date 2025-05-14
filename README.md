@@ -68,7 +68,7 @@ The project requires ECG signal data in a tabular or time-series format. The dat
 
 ## Results
 
-The model achieves high accuracy in classifying ECG signals. Below are some highlights:  
+The model achieves high accuracy in classifying ECG signals. Below are some highlights of it:  
 <br/>\- Training accuracy: 70.43%  
 \- Validation accuracy: 65.63%  
 \- Confusion matrix and ROC curves are available for analysis in the \`results/\` folder.  
